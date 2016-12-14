@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="800" height="800" viewBox="0 0 800.00 800.00" enable-background="new 0 0 800.00 800.00" xml:space="preserve">
+	<path fill="none" stroke-width="35" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 359.466,180.534C 455.666,148.657 544.636,155.965 558.186,196.857C 571.736,237.748 504.735,296.739 408.534,328.616C 312.334,360.493 223.364,353.185 209.814,312.294C 196.264,271.402 263.265,212.411 359.466,180.534 Z "/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 539.902,390.187C 510.045,407.94 470.682,421.007 426.718,425.936C 326.23,437.203 239.763,401.688 233.587,346.61"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 523.385,476.07C 495.784,487.24 460.567,493.554 422.334,492.742C 334.944,490.886 264.883,452.503 265.849,407.012"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 514.711,531.87C 489.932,543.099 458.336,549.49 424.049,548.762C 345.68,547.097 282.932,508.87 283.899,463.379"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 319.097,639.27C 334.449,637.533 347.494,630.826 355.337,619.207C 373.262,592.649 357.22,550.484 319.506,525.028"/>
+	<rect x="600" y="298.909" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="450.667" y="196.242" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="388" y="373.575" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="180" y="454.909" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="524.667" y="578.242" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="230.667" y="512.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="320" y="270" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="419.333" y="610.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="500" y="338.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="190.667" y="382.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="269.333" y="160.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="453.333" y="439.333" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="406.667" y="278.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="221.333" y="205.333" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+</svg>

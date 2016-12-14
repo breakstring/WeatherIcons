@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="800" height="800" viewBox="0 0 800.00 800.00" enable-background="new 0 0 800.00 800.00" xml:space="preserve">
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="177.611" y1="421.158" x2="234.155" y2="421.158"/>
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="429.386" y1="421.158" x2="477.114" y2="421.158"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 525.264,304.906C 536.56,318.343 542.773,337.682 540.866,358.515C 537.476,395.551 509.705,423.285 478.838,420.46"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 461.186,247.553C 488.132,239.394 516.59,254.624 524.749,281.57C 526.789,288.306 527.367,295.137 526.666,301.722"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 278.719,255.581C 281.496,214.297 310.899,178.683 352.408,170.751C 402.007,161.274 450.109,194.91 459.848,245.878"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 182.661,421.145C 159.578,421.145 140.866,399.978 140.866,373.868C 140.866,347.757 159.578,326.59 182.661,326.59"/>
+	<path fill="none" stroke-width="33.3333" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 183.33,327.029C 182.024,321.947 181.33,316.62 181.33,311.13C 181.33,275.952 209.848,247.434 245.026,247.434C 256.019,247.434 266.362,250.219 275.387,255.122"/>
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="602.533" y1="294.691" x2="353.199" y2="612.691"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="297.498" y1="350.104" x2="278.831" y2="406.104"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="414.831" y1="350.104" x2="396.165" y2="406.104"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="339.498" y1="403.438" x2="320.831" y2="459.438"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="258.764" y1="462.693" x2="240.097" y2="518.693"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="370.764" y1="476.193" x2="352.097" y2="532.193"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="459.95" y1="596.039" x2="441.284" y2="652.039"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="566.617" y1="601.372" x2="547.95" y2="657.372"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="497.284" y1="645.706" x2="478.617" y2="701.706"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="500.05" y1="475.961" x2="481.383" y2="531.961"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="606.716" y1="481.294" x2="588.05" y2="537.294"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="537.383" y1="525.628" x2="518.716" y2="581.628"/>
+</svg>

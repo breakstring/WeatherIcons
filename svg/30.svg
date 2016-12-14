@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="800" height="800" viewBox="0 0 800.00 800.00" enable-background="new 0 0 800.00 800.00" xml:space="preserve">
+	<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="177.62" y1="554.333" x2="622.38" y2="554.333"/>
+	<rect x="243.953" y="307" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="578.62" y="235.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="425.953" y="403" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="377.953" y="189.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<rect x="555.953" y="357" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+	<g>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="173" y1="372" x2="478.333" y2="372"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 160.333,372C 136.401,372 117,352.599 117,328.667"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 485,372.334C 508.932,372.334 528.333,391.735 528.333,415.667"/>
+	</g>
+	<g>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="95" y1="450.5" x2="400.333" y2="450.5"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 82.3333,450.5C 58.401,450.5 39,431.099 39,407.167"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 407,450.833C 430.932,450.833 450.333,470.235 450.333,494.167"/>
+	</g>
+	<g>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="125" y1="256.5" x2="430.333" y2="256.5"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 112.333,256.5C 88.401,256.5 69,237.099 69,213.167"/>
+		<path fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 437,256.833C 460.932,256.833 480.333,276.235 480.333,300.167"/>
+	</g>
+	<rect x="266.667" y="480.667" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="20" height="20"/>
+</svg>

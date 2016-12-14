@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="800" height="800" viewBox="0 0 800.00 800.00" enable-background="new 0 0 800.00 800.00" xml:space="preserve">
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="165.412" y1="413.134" x2="221.956" y2="413.134"/>
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="417.186" y1="413.134" x2="464.915" y2="413.134"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 513.065,296.882C 524.36,310.319 530.574,329.658 528.667,350.491C 525.277,387.528 497.506,415.261 466.639,412.436"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 448.987,239.529C 475.933,231.37 504.391,246.6 512.55,273.546C 514.59,280.282 515.168,287.113 514.466,293.698"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 266.519,247.557C 269.297,206.274 298.699,170.659 340.209,162.727C 389.808,153.25 437.91,186.886 447.649,237.854"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 170.462,413.121C 147.379,413.121 128.667,391.954 128.667,365.844C 128.667,339.733 147.379,318.567 170.462,318.567"/>
+	<path fill="none" stroke-width="33.3333" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 171.131,319.005C 169.825,313.923 169.131,308.596 169.131,303.106C 169.131,267.928 197.648,239.41 232.826,239.41C 243.82,239.41 254.162,242.195 263.188,247.098"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="318.683" y1="431.613" x2="306.26" y2="468.884"/>
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="590.333" y1="286.667" x2="341" y2="604.667"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="487" y1="518" x2="468.333" y2="574"/>
+	<line fill="none" stroke-width="35" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="620.333" y1="518" x2="601.667" y2="574"/>
+</svg>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="800" height="800" viewBox="0 0 800.00 800.00" enable-background="new 0 0 800.00 800.00" xml:space="preserve">
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="154.71" y1="545.107" x2="239.667" y2="545.107"/>
+	<line fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="533.001" y1="545.107" x2="604.712" y2="545.107"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 677.058,370.438C 694.029,390.626 703.365,419.683 700.5,450.985C 695.406,506.632 653.681,548.302 607.303,544.057"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 580.781,284.264C 621.267,272.006 664.026,294.888 676.284,335.375C 679.349,345.496 680.217,355.76 679.164,365.653"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 306.624,296.326C 310.797,234.298 354.974,180.787 417.342,168.87C 491.864,154.631 564.138,205.168 578.77,281.748"/>
+	<path fill="none" stroke-width="35" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 162.297,545.086C 127.615,545.086 99.5002,513.283 99.5002,474.052C 99.5002,434.821 127.615,403.018 162.297,403.018"/>
+	<path fill="none" stroke-width="33.3333" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 163.303,403.678C 161.34,396.042 160.297,388.037 160.297,379.789C 160.297,326.934 203.145,284.086 256,284.086C 272.517,284.086 288.057,288.271 301.618,295.637"/>
+	<g>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="391.696" y1="514" x2="391.696" y2="608.667"/>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="432.963" y1="542.221" x2="350.979" y2="589.555"/>
+		<line fill="none" stroke-width="20" stroke-linecap="square" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="351.037" y1="539.333" x2="433.021" y2="586.667"/>
+	</g>
+</svg>
